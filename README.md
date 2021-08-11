@@ -1,2 +1,2 @@
-# Diamondfox-Technical-Anlaysis-Report
+# Diamondfox-Technical-Analysis-Report
 malware analysis
